@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class Uni6Exe2 {
+public class Uni6Exe02 {
 
-    private Uni6Exe2(){
+    private Uni6Exe02(){
         Scanner teclado = new Scanner(System.in);
         double[] vetorReal = new double[12];
         double somaReais = 0;
