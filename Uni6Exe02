@@ -40,6 +40,6 @@ public class Uni6Exe02 {
     }
 
     public static void main(String[] args) {
-        new Uni6Exe2();
+        new Uni6Exe02();
     }
 }
